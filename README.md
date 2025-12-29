@@ -12,10 +12,13 @@ O objetivo é facilitar o registro rápido de compromissos, sem precisar abrir o
 
 
 ##Tecnologias utilizadas
--Python 
--python-telegram-bot
--Google Calendar API
--google-api-python-client
--google-auth / google-auth-oauthlib
--dateparser
--python-dotenv
+
+- Python 
+- python-telegram-bot
+- Google Calendar API
+- google-api-python-client
+- google-auth / google-auth-oauthlib
+- dateparser
+- python-dotenv
+
+Desenvolvido por Juliana Rocha

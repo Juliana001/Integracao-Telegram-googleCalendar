@@ -4,14 +4,14 @@ Este projeto é um bot do Telegram que permite criar eventos no Google Calendar 
 
 O objetivo é facilitar o registro rápido de compromissos, sem precisar abrir o Google Calendar manualmente.
 
-##Funcionalidades MVP (escopo)
+## Funcionalidades MVP (escopo)
 - receber mensagens de texto no telegram
 - interpretar data e hora em linguagem natural
 - criar eventos no telegram
 - duração padrão dos eventos é de 1 hora
 - usar o calendário principal
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 
 - python-telegram-bot

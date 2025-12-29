@@ -21,4 +21,4 @@ O objetivo é facilitar o registro rápido de compromissos, sem precisar abrir o
 - dateparser
 - python-dotenv
 
-Desenvolvido por *Juliana Rocha*
+Desenvolvido por **Juliana Rocha**
